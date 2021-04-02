@@ -1,0 +1,1 @@
+var int number = 12
