@@ -1,1 +1,1 @@
-var int number = 12
+int number = 12
