@@ -1,3 +1,5 @@
 .git
 text.js
-
+node_modules
+api
+package-lock.json
